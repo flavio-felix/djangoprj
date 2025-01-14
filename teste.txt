@@ -1,5 +1,0 @@
-testando commit
-
-este arquivo deve ficar vedinho até eu comitar
-
-novo teste
